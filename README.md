@@ -8,7 +8,7 @@
 https://github.com/luckybilly/CC
 
 ## 小结
-（1）builder复用，采用了ObjPool技术 - 组件短时间大量构建场景应该会有
+##### （1）builder复用，采用了ObjPool技术 - 组件短时间大量构建场景应该会有
 （2）CC - 组件的抽象
 （3）反射获取Application，生命周期监听技术
 （4）ComponentManager - 组件管理（注册，注销，组件调用等）
